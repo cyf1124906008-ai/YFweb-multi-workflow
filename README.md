@@ -1,4 +1,5 @@
-# YFweb-multi-workflow
+# YFweb-multi-workflow![屏幕截图 2026-01-17 052700](https://github.com/user-attachments/assets/10b1636d-b1a1-4086-81d4-e48bc24ba6ca)
+
 基于 HTML 的浏览器多窗口聚合与工作流管理工具；HTML-Based Browser Multi-Window Aggregation and Workflow Management Tool
 ⚡️ 网站多开工作流 (Web Multi-Workflow)
 
