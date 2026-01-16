@@ -40,13 +40,17 @@ Q: 为什么显示白屏/拒绝连接？ A: 请检查是否已安装插件，并
 Q: 数据会上传吗？ A: 绝对不会。所有数据均存储在你的本地 URL 和浏览器历史记录中，本项目没有任何后端服务器。
 
 🤝 参与贡献 欢迎提交 Issue 反馈建议，或 Pull Request 贡献代码！
-⚡️ Web Multi-Workflow
 ## 📧 联系与交流 (Contact)
 
 如果你在使用中遇到问题，或者想交流极客玩法，欢迎联系我！
 
 * **Email**: cyf1124906008@gmail.com
 * **GitHub Issue**: 欢迎直接在仓库提交 Issue。
+* ///
+ ## 📧 联系与交流 (Contact)
+
+⚡️ Web Multi-Workflow
+
 A minimalist multi-window browser workflow tool. Pure HTML implementation, runs locally, safe and ad-free.
 
 Designed for high-efficiency individuals to solve the pain point of frequent tab switching. Supports one-click launch of popular AI models like Gemini, DeepSeek, and Claude, or custom web pages to build your exclusive multi-screen monitoring workbench.
